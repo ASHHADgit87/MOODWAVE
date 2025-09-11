@@ -1,0 +1,3 @@
+Shape of You|Ed Sheeran|Happy|assets/music/shape_of_you.mp3
+Blank Space|Taylor Swift|Sad|assets/music/blank_space.mp3
+Levitating|Dua Lipa|Chill|assets/music/levitating.mp3

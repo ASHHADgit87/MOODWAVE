@@ -1,0 +1,6 @@
+*.exe
+*.o
+User/*
+Assets/Musics/decrypted.txt
+Assets/Musics/encrypted.txt
+Assets/Musics/input.txt
